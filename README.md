@@ -12,7 +12,7 @@ Main files:
 - contact.html
 - style.css
 - script.js
-- assets/
+- 
 
 GitHub Pages settings:
 - Source: Deploy from a branch
